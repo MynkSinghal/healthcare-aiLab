@@ -136,11 +136,14 @@ Special thanks to:
 ---
 
 ## 📷 Screenshots/Demos
-**Desktop View**  
-![Desktop Screenshot](https://via.placeholder.com/800x400?text=Heart+Disease+Risk+Assessment)
+**Page 1**  
+![Page 1 Screenshot](./images/page1.png)
 
-**Mobile View**  
-![Mobile Screenshot](https://via.placeholder.com/400x800?text=Mobile+View)
+**Page 2**  
+![Page 2 Screenshot](./images/page2.png)
+
+**Page 3**  
+![Page 3 Screenshot](./images/page3.png)
 
 ---
 
