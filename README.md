@@ -59,7 +59,7 @@ Follow these steps to set up the project locally:
 ---
 
 ## 🎮 Usage
-1. Open your browser and navigate to `http://localhost:3000`.
+1. Open your browser and navigate to `http://localhost:5174`.
 2. Fill out the form with your health data.
 3. Click "Calculate Risk" to receive an assessment.
 4. Explore tailored recommendations and related literature.
@@ -159,11 +159,3 @@ Have questions or suggestions? Reach out!
 - Name: Mayank Singhal  
 - Email: [singhal2004mayank@gmail.com](mailto:singhal2004mayank@gmail.com)  
 - GitHub: [My GitHub](https://github.com/MynkSinghal)
-
----
-
-### 🚧 Future Improvements
-- Adding more sophisticated ML models like XGBoost or Random Forest.
-- Enabling multi-language support for broader accessibility.
-
-
