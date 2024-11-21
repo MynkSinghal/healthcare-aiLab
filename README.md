@@ -1,9 +1,6 @@
 # ❤️ Heart Disease Risk Assessment
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)  
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)  
-![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)  
-![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)  
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg) ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![License](https://img.shields.io/badge/license-MIT-brightgreen.svg) ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)  
 
 > A web-based tool to help users assess their heart disease risk using health metrics and AI predictions.
 
